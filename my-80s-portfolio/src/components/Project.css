@@ -1,0 +1,21 @@
+.project-container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .project-title {
+    font-family: "Times New Roman", serif;
+    font-size: 1.75rem;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .project-content {
+    font-family: "Helvetica", "Arial", sans-serif;
+    line-height: 1.6;
+    color: #444;
+  }
